@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umid-stha
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Go and PHP.
+- 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on Intresting and complex Projects.
 - 📫 Reach to me via "shresthaumidccc@gmail.com"
 <!---
